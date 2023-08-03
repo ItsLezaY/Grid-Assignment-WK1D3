@@ -2,9 +2,6 @@ body {
     font-family: 'Inter';
 }
 
-nav a {
-}
-
 nav li {
     text-align: center;
     display: inline-flex;
